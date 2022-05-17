@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryanq518/redis-subscribe-sse.git"
+    "url": "git://github.com/Stonewall-Defense/redis-subscribe-sse.git"
   },
   "scripts": {
     "test": "ava --verbose",
