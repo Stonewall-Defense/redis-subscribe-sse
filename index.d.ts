@@ -1,0 +1,1 @@
+declare module "@stonewall-defense/redis-subscribe-sse";
