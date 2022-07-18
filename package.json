@@ -1,6 +1,6 @@
 {
   "name": "@stonewall-defense/redis-subscribe-sse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stream Redis subscribe events to client with SSE",
   "main": "index.js",
   "repository": {
